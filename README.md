@@ -4,7 +4,7 @@ Qiita記事用ハードコーディングは避けるべきというコンテン
 
 ## コード全容
 
-```javascript
+```typescript
 // スプレッドシートのセルから値を取得してGASのスクリプトプロパティに保存する
 function setIdData(){
   const ss = SpreadsheetApp.getActiveSpreadsheet();
