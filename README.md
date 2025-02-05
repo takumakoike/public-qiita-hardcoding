@@ -1,0 +1,2 @@
+# public-qiita-hardcoding
+Qiita記事用ハードコーディングは避けるべきというコンテンツのコードリポジトリになります。
